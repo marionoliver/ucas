@@ -8,7 +8,7 @@ TP noté scraping python
  ## déroulement 
 * Se rendre dans le dossier ucas-master
 * Lancer la commande : py server.py
-* Ouvrir son nagigateur sur le port 5000
+* Ouvrir son navigateur sur le port 5000
 * Aller prendre un café
 * Aller prendre une douche
 * Faire une sieste
